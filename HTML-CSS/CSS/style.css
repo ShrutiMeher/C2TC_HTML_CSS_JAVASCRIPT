@@ -1,0 +1,51 @@
+.container
+{
+	width: 80%;
+	margin: auto;
+	background-color:skyblue ;
+	color: black;
+	padding: 10px;
+	border-left: 10px greenyellow solid;
+}
+
+
+
+.button
+{
+	color: yellow;
+}
+
+.image img
+{
+	width: 33%;
+	height: 22%;
+	margin-left: 33%;
+}
+
+
+
+.branches
+{
+	border: 5px solid #ccc;
+	padding: 10px;
+	border-radiusmargin: 15px;
+	position: absolute;
+
+}
+
+.block
+{
+	margin-top: 17%;
+	float: left;
+	width: 33.3%;
+	border: 4px solid #ccc;
+	padding: 10px;
+	box-sizing: border-box;
+	
+}
+
+.clr
+{
+	clear: both;
+}
+
